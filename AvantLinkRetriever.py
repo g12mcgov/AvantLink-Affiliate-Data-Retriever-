@@ -1,6 +1,9 @@
-# widget to retrieve merchant data from Avantlink
-# potentially other Affiliate Marketers as well. 
+'''
+  widget to retrieve merchant data from Avantlink
+  potentially other Affiliate Marketers as well. 
+  must use links from Avantlink API Builder 
 
+'''
 # import py libraries 
 import urllib2 
 import re
